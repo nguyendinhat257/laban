@@ -41,6 +41,7 @@ div ul li a{
 	font-size: 15px;
 
 } 
+
 div ul li a:hover {
 	font-weight: bold;
 	color: #00ACC1;
